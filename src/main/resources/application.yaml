@@ -1,0 +1,4 @@
+app:
+  topic:
+    name: "bargougui"
+  kafkaBootStrapServers: localhost:9092
